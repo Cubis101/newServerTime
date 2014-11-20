@@ -1,0 +1,4 @@
+# Created by .gitignore support plugin (hsz.mobi)
+serverTime.iml
+.idea
+src/collector/src/tileMapStuff/codeNameMetalMayhem.java
